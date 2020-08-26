@@ -1,7 +1,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ##Example Project
+  ## Example Project
 
   ## Table of Contents
   * [Title](#title)
